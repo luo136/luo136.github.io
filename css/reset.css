@@ -1,0 +1,72 @@
+body,p,h1,h2,h3,h4{
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+img{
+    border: none;
+    vertical-align: middle;
+}
+
+a{
+   text-decoration: none;
+}
+
+input{
+    padding: 0;
+    margin: 0;
+}
+
+button{
+    outline: none;
+}
+
+body{
+    color: #3C3C3C;
+    background-color: #f4f4f4;
+    font: 12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+}
+
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.fl{
+    float:left
+}
+.fr{
+    float: right;
+}
+
+.tbred{
+    color: #f22e00;
+}
+
+.mr7{
+    margin-right: 7px;
+}
+.mr5{
+    margin-right: 5px;
+}
+
+.layer{
+    width: 1190px;
+    margin: 0 auto;
+}
+
+.c5{
+    color: #ff5000;
+}
+table{
+    border-collapse: collapse;/*属性设置表格的边框是否被合并为一个单一的边框*/
+  }
+th,td{
+    padding: 0px;
+}
